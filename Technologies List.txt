@@ -3,6 +3,4 @@ Welcome to Ocean technology.
 Java
 AngularJs
 Html
-JavaScript
 
-Thank you
